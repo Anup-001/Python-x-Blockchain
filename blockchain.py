@@ -62,5 +62,5 @@ while waiting_for_input:
     if not verify_chain():
         print('Invalid Blockchain!')
         break
-
+ 
 print('Done!')
